@@ -35,7 +35,7 @@ a { color: var(--ink); text-underline-offset: 3px; }
   padding: 0 24px;
 }
 
-/* Header — the app's "KEEP ME" wordmark */
+/* Header — the app's "DELETE ME" wordmark */
 header {
   display: flex;
   justify-content: space-between;
@@ -112,7 +112,7 @@ h3 { font-size: 20px; font-weight: 700; margin: 0 0 6px; }
 section { padding: 72px 0; border-top: 1px solid var(--rule); }
 .hero { border-top: none; padding-top: 48px; }
 
-/* The problem Keep Me solves: the familiar alert beside the words */
+/* The problem Delete Me solves: the familiar alert beside the words */
 .why {
   display: grid;
   grid-template-columns: 1fr 300px;
