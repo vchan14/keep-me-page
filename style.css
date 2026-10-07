@@ -26,7 +26,7 @@ body {
 
 a { color: var(--ink); text-underline-offset: 3px; }
 
-/* Keep #support and #signups from landing under the sticky header. */
+/* Keep #signups from landing under the sticky header. */
 [id] { scroll-margin-top: 96px; }
 
 .wrap {
@@ -241,8 +241,8 @@ footer a { color: var(--muted); }
   nav a { margin-left: 14px; }
 }
 
-/* No room for all three beside the wordmark on a phone. Support is further
-   down the page and Privacy is in the footer, so only the button stays. */
+/* No room for all three beside the wordmark on a phone. Support and Privacy
+   are in the footer, so only the button stays. */
 @media (max-width: 480px) {
   nav a:not(.nav-cta) { display: none; }
 }
