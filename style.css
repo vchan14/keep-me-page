@@ -193,7 +193,7 @@ section { padding: 72px 0; border-top: 1px solid var(--rule); }
   background: var(--soft);
   border-radius: 20px;
   padding: 32px;
-  margin-bottom: 56px;
+  margin-top: 56px;
 }
 .contact p { margin: 0 0 20px; color: var(--muted); }
 .button {
